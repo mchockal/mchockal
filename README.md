@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Meena. I'm a tree-hugging, modern day hippie guised as a Software engineering geek.
-- 👀 I’m interested in Interactive Designs, Open Source projects, Distributed Computing and Sustainable Living.
-- 🌱 I’m currently learning Data and Visual Analytics (CS6242) and System Issues in Cloud Computing (CS8803) at GATech
-- 💞️ I’m looking to collaborate on Deep Learning projects focused on Waste Recycling
+- 👋 Hi, I’m Meena. I'm curious like my cat - Loki Fettuccine aka the Inquisitor.
+- 👀 I am looking for roles centered around  multi-modal model training (text, image, videos) and optimizing them for both training and inference. 
+- 🌱 I recevied my Masters in CS from Georgia Institute of Technology - College of Computing, specializing in Machine Learning.
+- 💞️ I am open to collaborate on open source projects addressing infrastructure and scaling challenges in training LLM's
 - 📫 How to reach me - Discord : coffee#9762
 
 <!---
